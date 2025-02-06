@@ -1,3 +1,5 @@
+// Problem: Majority Element (LeetCode 169)
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
